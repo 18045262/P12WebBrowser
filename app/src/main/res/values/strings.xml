@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">P12WebBrowser</string>
+    <string name="Load">Load URL</string>
+    <string name="URL">URL</string>
+</resources>
